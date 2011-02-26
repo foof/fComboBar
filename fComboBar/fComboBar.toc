@@ -1,0 +1,8 @@
+## Interface: 40000
+## Author: Foof
+## Version: 1.0
+## Title: fComboBar
+## Notes: Combo points replacement
+## RequiredDeps: Tukui
+
+fComboBar.lua
