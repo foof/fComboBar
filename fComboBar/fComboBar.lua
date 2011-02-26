@@ -41,6 +41,7 @@ local function CreateComboButton()
 	button:SetSize(WIDTH, HEIGHT);
 	button:SetTemplate("Default");
 	button:CreateOverlay();
+	button.overlay:SetAlpha(0.5);
 	button:CreateShadow();
 	button:SetAlpha(0);
 	
